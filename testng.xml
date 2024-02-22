@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SFSuite">
+	<listeners>
+		<listener class-name="com.Salesforce.utilities.SFListener"></listener>
+	</listeners>
+  <test name="SFTest">
+	  <parameter name="browsername" value="chrome"></parameter>
+    <classes>
+		  <class name="com.Salesforce.automationscripts.LoginAutomationScript"/>     
+         </classes>
+  </test> <!-- SFTest -->
+</suite> <!-- SFSuite -->

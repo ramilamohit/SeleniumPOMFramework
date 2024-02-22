@@ -1,0 +1,670 @@
+2024-02-20 20:41:05 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest....has started................
+2024-02-20 20:41:05 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 20:41:08 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 20:41:08 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution started........
+2024-02-20 20:41:08 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 20:41:08 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 20:41:08 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution completed with failure........
+2024-02-20 20:41:09 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 20:41:09 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 20:41:10 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest.....has finised................
+2024-02-20 20:48:55 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest....has started................
+2024-02-20 20:48:55 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 20:48:58 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 20:48:58 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution started........
+2024-02-20 20:48:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 20:48:58 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 20:48:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-20 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-20 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-20 20:49:00 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 20:49:00 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 20:49:00 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-20 20:49:00 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution completed with success........
+2024-02-20 20:49:00 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 20:49:00 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 20:49:00 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest.....has finised................
+2024-02-20 21:28:13 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest....has started................
+2024-02-20 21:28:14 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 21:28:17 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 21:28:17 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution started........
+2024-02-20 21:28:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 21:28:17 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:28:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-20 21:28:18 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 21:28:18 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 21:28:18 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-20 21:28:18 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 21:28:18 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-20 21:28:19 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 21:28:19 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 21:28:19 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-20 21:28:19 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution completed with success........
+2024-02-20 21:28:19 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 21:28:19 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 21:28:19 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 21:28:21 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 21:28:21 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution started........
+2024-02-20 21:28:21 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 21:28:21 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:28:21 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 21:28:22 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 21:28:22 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 21:28:25 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 21:28:25 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 21:28:27 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:28:27 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 21:28:27 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution completed with success........
+2024-02-20 21:28:27 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 21:28:27 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 21:28:27 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest.....has finised................
+2024-02-20 21:52:23 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest....has started................
+2024-02-20 21:52:23 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 21:52:27 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 21:52:27 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution started........
+2024-02-20 21:52:27 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 21:52:27 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:52:27 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-20 21:52:28 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 21:52:28 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 21:52:28 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-20 21:52:28 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 21:52:28 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-20 21:52:28 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 21:52:29 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 21:52:29 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-20 21:52:29 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution completed with success........
+2024-02-20 21:52:29 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 21:52:29 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 21:52:29 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 21:52:31 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 21:52:31 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution started........
+2024-02-20 21:52:32 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 21:52:32 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:52:32 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 21:52:32 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 21:52:33 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 21:52:35 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 21:52:35 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 21:52:38 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:52:38 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 21:52:38 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution completed with success........
+2024-02-20 21:52:38 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 21:52:38 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 21:52:38 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 21:52:40 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 21:52:40 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 21:52:40 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 21:52:40 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:52:40 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 21:52:41 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 21:52:41 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 21:52:45 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 21:52:45 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 21:52:47 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:52:47 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 21:52:47 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 21:52:47 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 21:52:47 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 21:52:47 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 21:52:48 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 21:52:48 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 21:52:48 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest.....has finised................
+2024-02-20 21:54:41 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest....has started................
+2024-02-20 21:54:41 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 21:54:43 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 21:54:43 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution started........
+2024-02-20 21:54:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 21:54:44 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:54:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-20 21:54:44 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution completed with success........
+2024-02-20 21:54:45 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 21:54:46 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 21:54:46 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 21:54:48 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 21:54:48 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution started........
+2024-02-20 21:54:48 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 21:54:48 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:54:48 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 21:54:48 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 21:54:49 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 21:54:51 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 21:54:51 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 21:54:53 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:54:53 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 21:54:53 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution completed with success........
+2024-02-20 21:54:53 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 21:54:53 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 21:54:53 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 21:54:55 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 21:54:55 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 21:54:55 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 21:54:55 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:54:55 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 21:54:56 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 21:54:56 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 21:54:59 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 21:54:59 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 21:55:01 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 21:55:01 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 21:55:01 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 21:55:01 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 21:55:02 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 21:55:02 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 21:55:03 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 21:55:03 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 21:55:03 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 21:55:03 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 21:55:04 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 21:55:04 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest.....has finised................
+2024-02-20 22:00:49 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest....has started................
+2024-02-20 22:00:49 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:00:51 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:00:51 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution started........
+2024-02-20 22:00:51 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:00:52 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:00:52 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution completed with success........
+2024-02-20 22:00:53 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:00:54 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:00:54 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:00:56 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:00:56 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution started........
+2024-02-20 22:00:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:00:56 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:00:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:00:57 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:00:57 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:00:59 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:00:59 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:01:01 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:01:01 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:01:01 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution completed with success........
+2024-02-20 22:01:01 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:01:01 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:01:01 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:01:03 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:01:03 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:01:03 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:01:03 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:01:03 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:01:04 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:01:04 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:01:09 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:01:09 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:01:09 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:01:09 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:01:09 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:01:09 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:01:09 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:01:09 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:01:11 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:01:11 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:01:11 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:01:11 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:01:11 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:01:11 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest.....has finised................
+2024-02-20 22:02:57 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest....has started................
+2024-02-20 22:02:58 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:03:00 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:03:00 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution started........
+2024-02-20 22:03:00 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:03:00 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:03:00 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-20 22:03:01 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:03:01 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:03:01 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:03:01 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-20 22:03:01 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:03:01 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-20 22:03:02 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:03:02 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 22:03:02 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-20 22:03:02 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution completed with success........
+2024-02-20 22:03:02 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:03:02 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:03:02 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:03:05 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:03:05 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution started........
+2024-02-20 22:03:05 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:03:05 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:03:05 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:03:05 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:03:06 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:03:08 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:03:08 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:03:15 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:03:15 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:03:15 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution completed with success........
+2024-02-20 22:03:15 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:03:16 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:03:16 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:03:18 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:03:18 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:03:18 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:03:18 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:03:18 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:03:19 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:03:19 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:03:21 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:03:21 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:03:24 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:03:24 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:03:24 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:03:24 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:03:24 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:03:24 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:03:25 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:03:25 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:03:25 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:03:25 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:03:26 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:03:26 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest.....has finised................
+2024-02-20 22:03:47 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:03:47 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:03:50 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:03:50 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:03:50 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:03:50 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:03:50 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:03:50 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:03:51 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:03:53 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:03:53 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:03:55 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:03:55 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:03:55 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:03:55 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:03:56 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:03:56 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:03:57 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:03:57 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:03:57 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:03:57 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:03:57 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:03:58 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:05:50 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:05:50 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:05:52 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:05:52 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:05:53 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:05:53 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:05:53 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:05:54 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:05:54 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:05:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:05:56 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:05:58 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:05:58 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:05:58 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:05:58 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:05:58 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:05:58 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:05:59 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:05:59 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:05:59 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:06:00 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:06:00 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:06:00 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:09:42 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:09:43 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:09:45 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:09:45 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:09:45 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:09:46 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:09:46 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:09:47 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:09:47 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:09:49 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:09:49 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:09:50 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:09:50 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:09:50 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:09:51 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:09:52 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:09:52 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:09:53 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:09:53 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:09:53 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:09:53 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:09:54 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:09:54 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:10:30 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:10:30 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:10:32 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:10:32 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:10:32 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:10:32 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:10:32 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:10:33 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:10:33 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:10:36 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:10:36 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:10:38 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:10:38 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:10:38 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:10:38 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:10:43 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:10:43 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:10:44 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:10:44 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:10:44 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:10:45 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:10:46 [main] INFO  com.Salesforce.base.BaseTest - browser instances closed
+2024-02-20 22:10:46 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:10:53 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:10:53 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:10:55 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:10:55 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:10:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:10:56 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:10:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:10:56 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:10:57 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:10:59 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:10:59 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:11:01 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:11:01 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:11:01 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:11:01 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:11:07 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:11:07 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:11:09 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:11:09 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:11:09 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:11:09 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:11:10 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:11:10 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:11:33 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:11:33 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:11:35 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:11:35 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:11:35 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:11:36 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:11:36 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:11:36 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:11:36 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:11:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:11:39 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:11:40 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:11:40 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:11:40 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:11:40 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:11:46 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:11:51 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:11:51 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:11:51 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:11:51 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:11:51 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:11:52 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:11:52 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:19:07 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:19:07 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:19:10 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:19:10 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:19:10 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:19:11 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:19:11 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:19:12 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:19:13 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:19:15 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:19:15 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:19:18 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:19:18 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:19:18 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:19:18 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:19:19 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:19:19 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:19:20 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:19:20 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:19:20 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:19:21 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:19:22 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:19:22 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:20:23 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:20:23 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:20:26 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:20:27 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:20:27 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:20:27 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:20:27 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:20:28 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:20:28 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:20:30 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:20:30 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:20:32 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:20:32 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:20:32 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:20:33 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:20:34 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:20:44 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:20:44 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:20:44 [main] ERROR com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case failed
+2024-02-20 22:20:44 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:20:45 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:20:45 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:20:45 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:26:40 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:26:41 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:26:44 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:26:44 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:26:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:26:44 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:26:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:26:45 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:26:46 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:26:46 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-20 22:26:50 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:26:50 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:26:51 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:26:51 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:26:51 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:26:51 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:26:52 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:26:52 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:27:53 [main] ERROR com.Salesforce.pages.base.BasePage - Username textbox is not visible
+2024-02-20 22:27:53 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:27:53 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-20 22:27:53 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with success........
+2024-02-20 22:27:53 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:27:53 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:27:53 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:29:20 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:29:20 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:29:23 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:29:23 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:29:23 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:29:24 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:29:24 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:29:25 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:29:25 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:29:25 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-20 22:29:30 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:29:30 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:29:30 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:29:30 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:29:30 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:29:30 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:29:31 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:29:31 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with failure........
+2024-02-20 22:29:31 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:29:32 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:29:32 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:30:24 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:30:24 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:30:28 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:30:28 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:30:28 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:30:29 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:30:29 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:30:29 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:30:30 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:30:30 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-20 22:30:35 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:30:35 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:30:40 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:30:40 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:30:40 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:30:41 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:30:42 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:30:42 [main] INFO  com.Salesforce.pages.base.BasePage - Username textbox is waiting for visibility
+2024-02-20 22:31:13 [main] ERROR com.Salesforce.pages.base.BasePage - Username textbox is not visible
+2024-02-20 22:31:13 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:31:13 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-20 22:31:13 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with success........
+2024-02-20 22:31:13 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:31:13 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:31:13 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 22:33:12 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 22:33:12 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 22:33:16 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 22:33:16 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 22:33:16 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 22:33:17 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:33:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 22:33:18 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 22:33:18 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 22:33:18 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-20 22:33:20 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 22:33:20 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 22:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 22:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 22:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 22:33:23 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 22:33:24 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 22:33:25 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 22:33:25 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-20 22:33:25 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with success........
+2024-02-20 22:33:25 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 22:33:26 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 22:33:26 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 23:05:42 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 23:05:42 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 23:05:45 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 23:05:45 [main] INFO  com.Salesforce.utilities.SFListener - .............TC4AForgotPassword.......test execution started........
+2024-02-20 23:05:46 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:05:47 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 23:05:47 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-20 23:05:47 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:05:48 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-20 23:05:48 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-20 23:05:48 [main] INFO  com.Salesforce.pages.base.BasePage - Check Email Header Test case is passed
+2024-02-20 23:05:48 [main] INFO  com.Salesforce.utilities.SFListener - .............TC4AForgotPassword.......test execution completed with success........
+2024-02-20 23:05:48 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 23:05:48 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 23:05:48 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 23:12:56 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test....has started................
+2024-02-20 23:12:56 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 23:12:59 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 23:12:59 [main] INFO  com.Salesforce.utilities.SFListener - .............TC4BErrormsgWrongIdPassword.......test execution started........
+2024-02-20 23:13:00 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:13:00 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 23:13:00 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-20 23:13:00 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 23:13:00 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 23:13:00 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-20 23:13:00 [main] INFO  com.Salesforce.utilities.SFListener - .............TC4BErrormsgWrongIdPassword.......test execution completed with success........
+2024-02-20 23:13:00 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 23:13:01 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 23:13:01 [main] INFO  com.Salesforce.utilities.SFListener - .............Default test.....has finised................
+2024-02-20 23:13:43 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest....has started................
+2024-02-20 23:13:43 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 23:13:45 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 23:13:45 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution started........
+2024-02-20 23:13:45 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 23:13:45 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 23:13:45 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-20 23:13:46 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:13:46 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 23:13:46 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-20 23:13:47 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 23:13:47 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-20 23:13:47 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 23:13:47 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 23:13:47 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-20 23:13:47 [main] INFO  com.Salesforce.utilities.SFListener - .............TC1ErrormsgEmptyPassword.......test execution completed with success........
+2024-02-20 23:13:47 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 23:13:48 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 23:13:48 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 23:13:50 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 23:13:50 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution started........
+2024-02-20 23:13:50 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 23:13:50 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 23:13:50 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 23:13:51 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:13:51 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 23:13:54 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 23:13:54 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 23:13:55 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 23:13:55 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 23:13:55 [main] INFO  com.Salesforce.utilities.SFListener - .............TC2HomepageDisplay.......test execution completed with success........
+2024-02-20 23:13:55 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 23:13:56 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 23:13:56 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 23:13:58 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 23:13:58 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution started........
+2024-02-20 23:13:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-20 23:13:58 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 23:13:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page display Test case is passed
+2024-02-20 23:13:58 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:13:59 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 23:13:59 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-20 23:14:01 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 23:14:02 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-20 23:14:04 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-20 23:14:04 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-20 23:14:04 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-20 23:14:04 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-20 23:14:04 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-20 23:14:06 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-20 23:14:06 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-20 23:14:06 [main] INFO  com.Salesforce.utilities.SFListener - .............TC3RememberCheckboxUsername.......test execution completed with success........
+2024-02-20 23:14:06 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 23:14:06 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 23:14:06 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 23:14:08 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 23:14:08 [main] INFO  com.Salesforce.utilities.SFListener - .............TC4AForgotPassword.......test execution started........
+2024-02-20 23:14:09 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:14:09 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 23:14:10 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-20 23:14:10 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:14:11 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-20 23:14:11 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-20 23:14:11 [main] INFO  com.Salesforce.pages.base.BasePage - Check Email Header Test case is passed
+2024-02-20 23:14:11 [main] INFO  com.Salesforce.utilities.SFListener - .............TC4AForgotPassword.......test execution completed with success........
+2024-02-20 23:14:11 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 23:14:11 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 23:14:11 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFBeforeMethod Executed----------------------------
+2024-02-20 23:14:13 [main] INFO  com.Salesforce.base.BaseTest - https://login.salesforce.com/ is entered
+2024-02-20 23:14:13 [main] INFO  com.Salesforce.utilities.SFListener - .............TC4BErrormsgWrongIdPassword.......test execution started........
+2024-02-20 23:14:13 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-20 23:14:14 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox textbox
+2024-02-20 23:14:14 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-20 23:14:14 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-20 23:14:14 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-20 23:14:14 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-20 23:14:14 [main] INFO  com.Salesforce.utilities.SFListener - .............TC4BErrormsgWrongIdPassword.......test execution completed with success........
+2024-02-20 23:14:14 [main] INFO  com.Salesforce.base.BaseTest - ---------------------SFAfterMethod Executed----------------------------
+2024-02-20 23:14:15 [main] INFO  com.Salesforce.base.BaseTest - browser instance closed
+2024-02-20 23:14:15 [main] INFO  com.Salesforce.utilities.SFListener - .............SFTest.....has finised................
