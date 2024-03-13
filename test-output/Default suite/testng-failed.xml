@@ -5,8 +5,8 @@
     <classes>
       <class name="com.Salesforce.automationscripts.LoginAutomationScript">
         <methods>
+          <include name="TC2HomepageDisplay"/>
           <include name="SFAfterMethod"/>
-          <include name="TC3RememberCheckboxUsername"/>
           <include name="SFBeforeMethod"/>
         </methods>
       </class> <!-- com.Salesforce.automationscripts.LoginAutomationScript -->

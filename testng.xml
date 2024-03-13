@@ -8,6 +8,8 @@
 	  <parameter name="browsername" value="chrome"></parameter>
     <classes>
 		  <class name="com.Salesforce.automationscripts.LoginAutomationScript"/>     
-         </classes>
+    </classes>
   </test> <!-- SFTest -->
 </suite> <!-- SFSuite -->
+
+

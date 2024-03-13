@@ -1,0 +1,12 @@
+com\Salesforce\base\BaseTest.class
+com\Salesforce\utilities\ExcelUtils.class
+com\Salesforce\pages\base\BasePage.class
+com\Salesforce\pages\login\CheckyourEmailPage.class
+com\Salesforce\pages\login\ForgotPasswordPage.class
+com\Salesforce\utilities\ExtentReportsUtility.class
+com\Salesforce\pages\login\LoginPage.class
+com\Salesforce\pages\home\HomePage.class
+com\Salesforce\automationscripts\LoginAutomationScript.class
+com\Salesforce\utilities\SFListener.class
+com\Salesforce\utilities\Constants.class
+com\Salesforce\utilities\PropertiesUtility.class

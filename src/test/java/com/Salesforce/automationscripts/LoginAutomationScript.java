@@ -1,17 +1,12 @@
 package com.Salesforce.automationscripts;
 
-import java.util.concurrent.TimeUnit;
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import com.Salesforce.base.*;
-import com.Salesforce.pages.base.BasePage;
 import com.Salesforce.pages.home.HomePage;
 import com.Salesforce.pages.login.CheckyourEmailPage;
 import com.Salesforce.pages.login.ForgotPasswordPage;
@@ -63,7 +58,7 @@ public class LoginAutomationScript extends BaseTest {
 
 	@Test
 	
-	public static void TC2HomepageDisplay()
+	public static void TC2HomepageDisplay() throws InterruptedException
 	{
 		String expLgTitle = "Login | Salesforce"; 
 		String expTitle ="Home Page ~ Salesforce - Developer Edition";
@@ -82,7 +77,7 @@ public class LoginAutomationScript extends BaseTest {
 		loginpage.enterPassword(passWord);
 
 		driver = loginpage.ClickLoginButton();
-		
+		Thread.sleep(5000);
 		HomePage homePage = new HomePage(driver);
 		String hometitle = homePage.getPageTitle();
 		homePage.checkText(hometitle, expTitle, "HomePage display");			
