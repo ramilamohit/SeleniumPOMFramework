@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-13T00:59:56 CDT" name="SFSuite" finished-at="2024-03-13T01:00:33 CDT" duration-ms="37543">
+  <suite started-at="2024-09-30T16:38:07 CDT" name="Default suite" finished-at="2024-09-30T16:38:42 CDT" duration-ms="34174">
     <groups>
     </groups>
-    <test started-at="2024-03-13T00:59:56 CDT" name="SFTest" finished-at="2024-03-13T01:00:33 CDT" duration-ms="37543">
+    <test started-at="2024-09-30T16:38:07 CDT" name="Default test" finished-at="2024-09-30T16:38:42 CDT" duration-ms="34174">
       <class name="com.Salesforce.automationscripts.LoginAutomationScript">
-        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T00:59:56 CDT" name="SFBeforeMethod" finished-at="2024-03-13T00:59:58 CDT" duration-ms="2393" status="PASS">
+        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:08 CDT" name="SFBeforeMethod" finished-at="2024-09-30T16:38:13 CDT" duration-ms="5107" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFBeforeMethod -->
-        <test-method signature="TC1ErrormsgEmptyPassword()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T00:59:58 CDT" name="TC1ErrormsgEmptyPassword" finished-at="2024-03-13T01:00:00 CDT" duration-ms="1704" status="PASS">
+        <test-method signature="TC1ErrormsgEmptyPassword()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:13 CDT" name="TC1ErrormsgEmptyPassword" finished-at="2024-09-30T16:38:15 CDT" duration-ms="2383" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC1ErrormsgEmptyPassword -->
-        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:00 CDT" name="SFAfterMethod" finished-at="2024-03-13T01:00:00 CDT" duration-ms="318" status="PASS">
+        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:15 CDT" name="SFAfterMethod" finished-at="2024-09-30T16:38:16 CDT" duration-ms="456" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFAfterMethod -->
-        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:00 CDT" name="SFBeforeMethod" finished-at="2024-03-13T01:00:02 CDT" duration-ms="2105" status="PASS">
+        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:16 CDT" name="SFBeforeMethod" finished-at="2024-09-30T16:38:18 CDT" duration-ms="2054" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFBeforeMethod -->
-        <test-method signature="TC2HomepageDisplay()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:02 CDT" name="TC2HomepageDisplay" finished-at="2024-03-13T01:00:13 CDT" duration-ms="10542" status="PASS">
+        <test-method signature="TC2HomepageDisplay()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:18 CDT" name="TC2HomepageDisplay" finished-at="2024-09-30T16:38:25 CDT" duration-ms="7612" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC2HomepageDisplay -->
-        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:13 CDT" name="SFAfterMethod" finished-at="2024-03-13T01:00:13 CDT" duration-ms="371" status="PASS">
+        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:25 CDT" name="SFAfterMethod" finished-at="2024-09-30T16:38:25 CDT" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFAfterMethod -->
-        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:13 CDT" name="SFBeforeMethod" finished-at="2024-03-13T01:00:15 CDT" duration-ms="1986" status="PASS">
+        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:25 CDT" name="SFBeforeMethod" finished-at="2024-09-30T16:38:28 CDT" duration-ms="2297" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,15 +56,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFBeforeMethod -->
-        <test-method signature="TC3RememberCheckboxUsername()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:15 CDT" name="TC3RememberCheckboxUsername" finished-at="2024-03-13T01:00:24 CDT" duration-ms="9138" status="PASS">
+        <test-method signature="TC3RememberCheckboxUsername()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:28 CDT" name="TC3RememberCheckboxUsername" finished-at="2024-09-30T16:38:32 CDT" duration-ms="4726" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC3RememberCheckboxUsername -->
-        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:24 CDT" name="SFAfterMethod" finished-at="2024-03-13T01:00:25 CDT" duration-ms="429" status="PASS">
+        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:32 CDT" name="SFAfterMethod" finished-at="2024-09-30T16:38:33 CDT" duration-ms="363" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFAfterMethod -->
-        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:25 CDT" name="SFBeforeMethod" finished-at="2024-03-13T01:00:27 CDT" duration-ms="2043" status="PASS">
+        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:33 CDT" name="SFBeforeMethod" finished-at="2024-09-30T16:38:35 CDT" duration-ms="1918" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFBeforeMethod -->
-        <test-method signature="TC4AForgotPassword()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:27 CDT" name="TC4AForgotPassword" finished-at="2024-03-13T01:00:29 CDT" duration-ms="2158" status="PASS">
+        <test-method signature="TC4AForgotPassword()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:35 CDT" name="TC4AForgotPassword" finished-at="2024-09-30T16:38:37 CDT" duration-ms="2337" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC4AForgotPassword -->
-        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:29 CDT" name="SFAfterMethod" finished-at="2024-03-13T01:00:29 CDT" duration-ms="338" status="PASS">
+        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:37 CDT" name="SFAfterMethod" finished-at="2024-09-30T16:38:37 CDT" duration-ms="238" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFAfterMethod -->
-        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:29 CDT" name="SFBeforeMethod" finished-at="2024-03-13T01:00:31 CDT" duration-ms="1709" status="PASS">
+        <test-method is-config="true" signature="SFBeforeMethod(java.lang.String)[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:37 CDT" name="SFBeforeMethod" finished-at="2024-09-30T16:38:40 CDT" duration-ms="2198" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -94,15 +94,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFBeforeMethod -->
-        <test-method signature="TC4BErrormsgWrongIdPassword()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:31 CDT" name="TC4BErrormsgWrongIdPassword" finished-at="2024-03-13T01:00:33 CDT" duration-ms="1670" status="PASS">
+        <test-method signature="TC4BErrormsgWrongIdPassword()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:40 CDT" name="TC4BErrormsgWrongIdPassword" finished-at="2024-09-30T16:38:41 CDT" duration-ms="1703" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC4BErrormsgWrongIdPassword -->
-        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@555cf22]" started-at="2024-03-13T01:00:33 CDT" name="SFAfterMethod" finished-at="2024-03-13T01:00:33 CDT" duration-ms="412" status="PASS">
+        <test-method is-config="true" signature="SFAfterMethod()[pri:0, instance:com.Salesforce.automationscripts.LoginAutomationScript@5553d0f5]" started-at="2024-09-30T16:38:41 CDT" name="SFAfterMethod" finished-at="2024-09-30T16:38:42 CDT" duration-ms="266" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SFAfterMethod -->
       </class> <!-- com.Salesforce.automationscripts.LoginAutomationScript -->
-    </test> <!-- SFTest -->
-  </suite> <!-- SFSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

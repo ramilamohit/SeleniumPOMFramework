@@ -4,12 +4,16 @@
   <listeners>
     <listener class-name="com.Salesforce.utilities.SFListener"/>
   </listeners>
-  <test thread-count="5" name="SFTest(failed)">
+  <test thread-count="5" parallel="methods" name="SFTest(failed)">
     <parameter name="browsername" value="chrome"/>
     <classes>
       <class name="com.Salesforce.automationscripts.LoginAutomationScript">
         <methods>
+          <include name="TC4BErrormsgWrongIdPassword"/>
+          <include name="TC2HomepageDisplay"/>
           <include name="SFAfterMethod"/>
+          <include name="TC4AForgotPassword"/>
+          <include name="TC1ErrormsgEmptyPassword"/>
           <include name="TC3RememberCheckboxUsername"/>
           <include name="SFBeforeMethod"/>
         </methods>
