@@ -39,7 +39,8 @@ public class SFListener extends BaseTest implements ITestListener
 		String filename=new SimpleDateFormat("yyyy_MM_dd_HH_mm_ss").format(new Date());
 		String path=Constants.SCREENSHOTS_DIRECTORY_PATH+filename+".png"; 
 		takescreenshot(path);
-		extentReport.logTestWithscreenshot(System.getProperty("user.dir")+"/reports/screenshots/"+filename+".png");
+		//http://localhost:8080/job/GitHubSeleniumPOMFramework/ws/reports/screenshots/
+		extentReport.logTestWithscreenshot("http://localhost:8080/job/GitHubSeleniumPOMFramework/ws"+"/reports/screenshots/"+filename+".png");
 		extentReport.logTestFailedWithException(result.getThrowable());
 
 
